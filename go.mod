@@ -1,4 +1,4 @@
-module github.com/samyunwei/parser/v0.0.1 
+module github.com/samyunwei/parser/v0
 
 require (
 	github.com/cznic/golex v0.0.0-20181122101858-9c343928389c // indirect
